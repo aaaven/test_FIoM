@@ -20,10 +20,15 @@
     - 黑客
     [Hacker](./Game_Log_20250228_0414/Game_Data_Hacker.csv)
     - 皇天后土
+    [Heaven_and_Earth](./Game_Log_20250228_0414/Game_Data_Heaven_and_Earth.csv)
     - 数字劳工
+    [Digital_Laborer](./Game_Log_20250228_0414/Game_Data_Digital_Laborer.csv)
     - 政策制定者
+    [Policymaker](./Game_Log_20250228_0414/Game_Data_Policymaker.csv)
     - 用户
+    [User](./Game_Log_20250228_0414/Game_Data_User.csv)
     - 人工意识体
+    [AI_Entity](./Game_Log_20250228_0414/Game_Data_AI_Entity.csv)
 
 ### 玩家策略重定义和微调大模型
 - 艺术家定义通过自定义程序使用最新玩家输入存档对预训练的大型语言模型进行微调，获得重新的定义的AI，作为游戏伴生的智库。
