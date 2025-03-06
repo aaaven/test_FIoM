@@ -16,7 +16,9 @@
 - 最新策略档案（以游戏角色扮演划分）包括：
 
     - 科技公司
+    [Tech_Corporation](./Game_Log_20250228_0414/Game_Data_Tech_Corporation.csv)
     - 黑客
+    [Hacker](./Game_Log_20250228_0414/Game_Data_Hacker.csv)
     - 皇天后土
     - 数字劳工
     - 政策制定者
